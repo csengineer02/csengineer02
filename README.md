@@ -1,8 +1,8 @@
-I am a full-stack Digital Marketer and writer. I love programming, reading, writing, and speaking.
+I am a full-stack Digital Marketer and CS Student. I love programming, reading, writing, and speaking.
 - 👋 Hi, I’m @csengineer02
-- 👀 I’m interested in java and python
+- 👀 I’m interested in Java and Python
 -  🌱 I'm currently learning: C and Java on LeetCode
-- 📫 How to reach me mri.bscse@gmail.com
+- 📫 How to reach me: mri.bscse@gmail.com
 - 😄 Pronouns: he/him
 - 💪 This is where I write, code, and solve problems:
   https://github.com/csengineer02

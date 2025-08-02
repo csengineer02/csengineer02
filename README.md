@@ -1,5 +1,5 @@
 I am a full-stack Digital Marketer and CS Student. I love programming, reading, writing, and speaking.
-- 👋 Hi, I’m @csengineer02
+- 👋 Hi, I’m Md. Rakibul Islam
 - 👀 I’m interested in Java and Python
 -  🌱 I'm currently learning: C and Java on LeetCode
 - 📫 How to reach me: mri.bscse@gmail.com

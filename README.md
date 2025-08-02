@@ -6,7 +6,7 @@ I am a full-stack Digital Marketer and CS Student. I love programming, reading, 
 - 😄 Pronouns: he/him
 - 💪 This is where I write, code, and solve problems:
   https://github.com/csengineer02
-  https://leetcode.com/u/csengineer02/
+  - 💪 Leetcode Profile: https://leetcode.com/u/csengineer02/
 
   
   
